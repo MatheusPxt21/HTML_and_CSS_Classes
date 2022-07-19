@@ -1,0 +1,58 @@
+body{
+  background-image: url("Primeira_Pagina_HTML/Dark_background.jpg");
+}
+
+.container_header{
+  width: 950px;
+  margin:0 auto;
+}
+
+header{
+  background-color: rgb(49, 80, 101);
+}
+
+
+#div_BemVindo{
+  color: #FFFFFF;
+  padding: 30px;
+  max-height: 50px;
+
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#div_foto{
+  min-height: 406.67px;
+  max-width: 300px;
+
+  float:left;
+
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.container_foto{
+  width: 950px;
+  padding:0 0 0 200px;
+}
+
+.container_texto{
+  width: 950px;
+  padding:50px;
+}
+#div_textinho{
+  float:left ;
+  
+  max-width: 600px;
+
+  text-align: justify;
+  font-size: 20px;
+  color:#FFFFFF;
+  /*background-color: blueviolet;*/
+  
+}
+
+
+
+

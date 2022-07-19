@@ -1,0 +1,72 @@
+/* Meu primerio arquivo em CSS */
+
+header{
+  background-color: #bfa10e;
+  background-image: url("computador-completo-capa-1-.jpg");
+
+  color: rgb(16, 106, 121);
+  min-height: 60px;
+
+  padding: 20px;
+  
+  /*text-align: center;*/
+  font-size: 40px;  
+  font-style: italic;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body{
+  background-color: #363636;
+  
+}  
+#primeira_div{
+  clear: both;
+  
+  float: left;  
+  min-width: 55%;
+  max-width: 55%;
+  min-height: 100px;
+  background-color: black;
+  
+
+  color:white;
+  
+  text-align: center;
+  font-family: Optima, sans-serif;
+  font-size: 30px;
+  
+  
+}
+
+
+#segunda_div{
+  
+  float: right;
+  min-width: 40%;
+  max-width: 40%;
+  min-height: 100px;
+  background-color:rgb(255, 0, 0);
+  
+  color:#363636;
+
+  text-align: right;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  
+}
+
+footer{
+  clear: both;
+  background-color: #bfa10e;
+  min-height: 100px;
+
+  text-align: center;
+  font-size: 30px;
+}
+
+/* declaração de 'class' é com ponto(.)*/
+.container{
+  width: 950px;
+  margin:0 auto;
+}
